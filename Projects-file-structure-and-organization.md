@@ -1,0 +1,67 @@
+## Simple
+
+- Main
+- Config
+- Resources
+- Features
+- Libraries
+
+## Full with Redux
+
+- Main
+    - App starting point (init all middleware, AppStateStore)
+    - AppStateStore(Single source of truth)
+    - AppState
+    - AppReducer
+- Config
+    - Global constants
+    - Config files(optional)
+- Resources
+- Features
+    - Common
+        - DeviceList
+        - FirmwareUpdate
+    - Device
+        - Features(optional)
+            - Common
+            - Pager(if generic enough can be moved to Libraries)
+            - StatusPanel
+        - DeviceState
+        - DeviceActions
+        - DeviceReducer
+        - DeviceViewController
+    - DeviceScanner
+        - DeviceScannerState
+        - DeviceScannerActions
+        - DeviceScannerReducer
+        - DeviceScannerViewController
+    - DeviceBrowser
+    - AppSettings
+    - DeviceSettings
+- Middleware
+    - AppNavigationMiddleware
+        - AppNavigationMiddlewareState
+        - AppNavigationMiddlewareActions
+        - AppNavigationMiddlewareReducer
+        - AppNavigationMiddleware
+    - BluetoothMiddleware
+        - BluetoothMiddlewareState
+        - BluetoothMiddlewareActions
+        - BluetoothMiddlewareReducer
+        - BluetoothMiddleware
+    - StorageMiddleware
+        - StorageMiddlewareState
+        - StorageMiddlewareActions
+        - StorageMiddlewareReducer
+        - StorageMiddleware
+- Libraries
+    - StateStore
+    - Network
+    - BLE
+    - Storage
+    - UI
+        - KeyboardHelpers
+        - Dialogs
+            - GeneralPopup
+            - PopupConstructor
+        - PrettyButton
