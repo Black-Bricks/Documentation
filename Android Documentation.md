@@ -35,7 +35,7 @@ git version 2.30.1
 
 ### Fastlane
 
-Экономи времени с помощью оптимизации релизов
+Экономие времени с помощью оптимизации релизов
 
 Для его установки в систему есть несколько способов:
 
@@ -49,10 +49,35 @@ brew cask install fastlane
 
 ## Архитектура
 
+Конечной целью разработки любого программного обеспечения является создание продукта, построенного на максимально гибком, читабельном и легко обслуживаемом коде. В Android все эти качества обеспечиваются путем соблюдения соедующих принципов:
+
+- DRY
+- KISS
+- YAGNI
+- [SOLID](https://en.wikipedia.org/wiki/SOLID)
+- Clean architecture
+- MVVM architecture
+
+### Основные концепции
+
+TBD
+
+### Слои приложения
+
+TBD
+
+### Внедрение зависимостей
+
+TBD
+
+### Структура директорий
+
 TBD
 
 ## Code style
 
+[Take from here](https://github.com/raywenderlich/kotlin-style-guide)
+[and here](https://developer.android.com/kotlin/style-guide)
 TBD
 
 ## Развертывание
