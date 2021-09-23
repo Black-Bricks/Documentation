@@ -33,6 +33,14 @@ git --version
 git version 2.30.1
 ```
 
+### Cookiecutter
+
+Для быстрого создания проектов из шаблона используется Cookiecutter.
+
+```bash
+brew install cookiecutter
+```
+
 ### Fastlane
 
 Экономие времени с помощью оптимизации релизов
