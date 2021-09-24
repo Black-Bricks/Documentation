@@ -106,7 +106,7 @@ TBD
 [and here](https://developer.android.com/kotlin/style-guide)
 TBD
 
-## Gitflow
+## GitFlow
 
 TBD
 
