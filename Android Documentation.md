@@ -39,7 +39,7 @@ git version 2.30.1
 
 ### Cookiecutter???
 
-Для быстрого создания проектов из шаблона используется Cookiecutter. 
+Для быстрого создания проектов из шаблона используется Cookiecutter.
 
 //TODO: links
 
@@ -104,6 +104,10 @@ TBD
 
 [Take from here](https://github.com/raywenderlich/kotlin-style-guide)
 [and here](https://developer.android.com/kotlin/style-guide)
+TBD
+
+## Gitflow
+
 TBD
 
 ## Развертывание
