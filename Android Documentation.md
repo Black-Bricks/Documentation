@@ -8,9 +8,13 @@
 
 Официальная IDE от Google. Скачать последнюю версию Android Studio можно с официально сайта. Запустить установочный файл и следовать инструкциям инсталлятора.
 
+//TODO: links
+
 ### Homebrew
 
-Homebrew - менеджер пакетов для Mac OS и Linux, который позволяет устанавливать тысячи пакетов, необходимых разработчику при помощи Terminal. Полная инструкция по установке доступна на официальном сайте.
+Homebrew - менеджер пакетов для Mac OS и Linux, который позволяет устанавливать тысячи пакетов, необходимых разработчику при помощи Terminal. Полная инструкция по установке доступна на официальном сайте. 
+
+//TODO: links
 
 ### Git
 
@@ -33,13 +37,21 @@ git --version
 git version 2.30.1
 ```
 
-### Cookiecutter
+### Cookiecutter???
 
-Для быстрого создания проектов из шаблона используется Cookiecutter.
+Для быстрого создания проектов из шаблона используется Cookiecutter. 
+
+//TODO: links
 
 ```bash
 brew install cookiecutter
 ```
+
+### //TODO: Cookiecutter or Android studio templates
+
+//TODO: links to templates
+
+//TODO: instalation instruction
 
 ### Fastlane
 
@@ -54,6 +66,8 @@ brew cask install fastlane
 ```
 
 О том, как настроить fastlane для использования на конкретном проекте компании, можно узнать в разделе **развёртывание(TBD link)**.
+
+//TODO: links
 
 ## Архитектура
 
@@ -79,6 +93,10 @@ TBD
 TBD
 
 ### Структура директорий
+
+TBD
+
+### Использование шаблонов
 
 TBD
 
