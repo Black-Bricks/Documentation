@@ -35,6 +35,8 @@ git --version
 git version 2.30.1
 ```
 
+//TODO: links
+
 ### Cookiecutter???
 
 Для быстрого создания проектов из шаблона используется Cookiecutter.
@@ -74,9 +76,11 @@ brew cask install fastlane
 - DRY
 - KISS
 - YAGNI
-- [SOLID](https://en.wikipedia.org/wiki/SOLID)
+- SOLID
 - Clean architecture
 - MVVM architecture
+
+//TODO: links
 
 ### Основные концепции
 
